@@ -6,3 +6,4 @@
 Show Command Palette: 
 - Ctrl+Shift+P, 
 - F1
+ un cambio en nueva rama
